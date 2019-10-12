@@ -1,6 +1,6 @@
 ---
 title: "Developing Data Product week 2 Project"
-author: "nikhil kumar deshmukh"
+author: "Mithil Bhuta"
 date: "October 12, 2019"
 output: html_document
 ---
